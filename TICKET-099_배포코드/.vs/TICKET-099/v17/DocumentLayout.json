@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46641DD1-118E-4604-BBDF-38759B135F91}|TestClient\\TestClient.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\testclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46641DD1-118E-4604-BBDF-38759B135F91}|TestClient\\TestClient.csproj|solutionrelative:testclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46641DD1-118E-4604-BBDF-38759B135F91}|TestClient\\TestClient.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\testclient\\testclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{46641DD1-118E-4604-BBDF-38759B135F91}|TestClient\\TestClient.csproj|solutionrelative:testclient\\testclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\shared\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,58 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\TestClient\\Program.cs",
-              "RelativeDocumentMoniker": "TestClient\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\TestClient\\Program.cs",
-              "RelativeToolTip": "TestClient\\Program.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAjwJcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T13:21:29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestClient",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\TestClient\\TestClient.csproj",
-              "RelativeDocumentMoniker": "TestClient\\TestClient.csproj",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\TestClient\\TestClient.csproj",
-              "RelativeToolTip": "TestClient\\TestClient.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-27T13:20:41.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameServer.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\GameServer.cs",
-              "RelativeDocumentMoniker": "OutsourcedServer\\GameServer.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\GameServer.cs",
-              "RelativeToolTip": "OutsourcedServer\\GameServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T12:38:13.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PacketHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\PacketHelper.cs",
+              "RelativeDocumentMoniker": "OutsourcedServer\\PacketHelper.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\PacketHelper.cs",
+              "RelativeToolTip": "OutsourcedServer\\PacketHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:02:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ClientSession.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\ClientSession.cs",
               "RelativeDocumentMoniker": "OutsourcedServer\\ClientSession.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\ClientSession.cs",
               "RelativeToolTip": "OutsourcedServer\\ClientSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T12:38:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UdpServer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\UdpServer.cs",
+              "RelativeDocumentMoniker": "OutsourcedServer\\UdpServer.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\UdpServer.cs",
+              "RelativeToolTip": "OutsourcedServer\\UdpServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:02:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\Program.cs",
+              "RelativeDocumentMoniker": "OutsourcedServer\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\Program.cs",
+              "RelativeToolTip": "OutsourcedServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T14:02:39.762Z",
               "EditorCaption": ""
             },
             {
@@ -94,8 +94,7 @@
               "RelativeToolTip": "Shared\\StudentConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T11:20:29.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T11:20:29.876Z"
             }
           ]
         }
