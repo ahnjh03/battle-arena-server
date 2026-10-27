@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "riZW5LtTIiM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\서버프로그래밍2\\TICKET-099_배포코드\\LoadTester\\LoadTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
