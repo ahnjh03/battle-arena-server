@@ -19,12 +19,12 @@ namespace BattleArena
         // ║                                          ║
         // ║    예) 23230881                          ║
         // ╚══════════════════════════════════════════╝
-        public static readonly int STUDENT_ID = 0;
+        public static readonly int STUDENT_ID = 22220486;
 
         // ╔══════════════════════════════════════════╗
         // ║  ★ 본인 이름을 적으세요                   ║
         // ╚══════════════════════════════════════════╝
-        public static readonly string STUDENT_NAME = "미입력";
+        public static readonly string STUDENT_NAME = "안정현";
 
         // ───────────────────────────────────────────
         // 아래는 건드리지 마세요
