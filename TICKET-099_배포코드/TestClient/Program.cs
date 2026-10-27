@@ -153,6 +153,8 @@ namespace BattleArena
                 _udp = new Socket(AddressFamily.InterNetwork,
                                   SocketType.Dgram, ProtocolType.Udp);
 
+                _udp.Bind(new IPEndPoint(IPAddress.Any, 0));
+
                 _udpServer = new IPEndPoint(IPAddress.Parse(SERVER_IP), StudentConfig.UdpPort);
 
                 _seq = 0;
@@ -197,20 +199,21 @@ namespace BattleArena
         {
             if (_tcp == null) return;
 
-            string json = Newtonsoft.Json.JsonConvert.SerializeObject(packet);
-            byte[] body = Encoding.UTF8.GetBytes(json);
+                string json = Newtonsoft.Json.JsonConvert.SerializeObject(packet);
+                byte[] body = Encoding.UTF8.GetBytes(json);
 
-            byte[] full = new byte[4 + body.Length];
-            BitConverter.GetBytes(body.Length).CopyTo(full, 0);
-            body.CopyTo(full, 4);
+                byte[] full = new byte[4 + body.Length];
+                BitConverter.GetBytes(body.Length).CopyTo(full, 0);
+                body.CopyTo(full, 4);
 
-            int sent = 0;
-            while (sent < full.Length)
-            {
-                sent += await _tcp.SendAsync(
-                    new ArraySegment<byte>(full, sent, full.Length - sent),
-                    SocketFlags.None);
-            }
+                int sent = 0;
+                while (sent < full.Length)
+                {
+                    sent += await _tcp.SendAsync(
+                        new ArraySegment<byte>(full, sent, full.Length - sent),
+                        SocketFlags.None);
+                }
+
         }
 
         private static async Task SendChatAsync()

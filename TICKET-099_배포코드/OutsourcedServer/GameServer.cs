@@ -39,6 +39,8 @@ namespace BattleArena
         // ═══════════════════════════════════════
         public async Task StartAsync()
         {
+            ThreadPool.SetMinThreads(200, 200);
+
             _uptime.Start();
 
             _listenSocket = new Socket(
