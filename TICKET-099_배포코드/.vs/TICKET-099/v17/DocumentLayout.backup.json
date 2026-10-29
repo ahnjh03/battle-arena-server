@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|solutionrelative:outsourcedserver\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A6DDE2B-6A52-4912-BB87-7381C8062DFD}|OutsourcedServer\\OutsourcedServer.csproj|c:\\users\\pc\\documents\\github\\battle-arena-server\\ticket-099_\uBC30\uD3EC\uCF54\uB4DC\\outsourcedserver\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -86,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameServer.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\GameServer.cs",
               "RelativeDocumentMoniker": "OutsourcedServer\\GameServer.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\GameServer.cs",
               "RelativeToolTip": "OutsourcedServer\\GameServer.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwEkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T05:49:35.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PacketHelper.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\battle-arena-server\\TICKET-099_\uBC30\uD3EC\uCF54\uB4DC\\OutsourcedServer\\PacketHelper.cs",
               "RelativeDocumentMoniker": "OutsourcedServer\\PacketHelper.cs",
