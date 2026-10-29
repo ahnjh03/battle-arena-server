@@ -174,7 +174,10 @@ namespace BattleArena
                         await _socket.SendToAsync(
                             new ArraySegment<byte>(data), SocketFlags.None, s.UdpEndPoint);
                     }
-                    catch { }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"[UDP 전송 실패] {ex.Message}");
+                    }
                 }
             }
         }
