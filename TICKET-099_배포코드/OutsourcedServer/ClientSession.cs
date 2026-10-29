@@ -47,7 +47,7 @@ namespace BattleArena
                     string? json = await PacketHelper.ReceiveAsync(_socket);
                     if (json == null) break;
 
-                    HandlePacket(json);
+                    await HandlePacket(json);
                 }
             }
             catch (Exception ex)
@@ -131,7 +131,7 @@ namespace BattleArena
         public async Task SendAsync(object packet)
         {
             if (!_isConnected) return;
-
+            
             try
             {
                 await PacketHelper.SendAsync(_socket, packet);
